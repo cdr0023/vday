@@ -30,7 +30,7 @@ function YesPage() {
   return (
     <div className="black-background centered-content">
       <h1>Great! Thank you for accepting my invitation! 💖</h1>
-      <p>Meet me at <strong>8:00 pm sharp</strong> for a Valentine treat!</p>
+      <p>Meet me at <strong>8:00 pm sharp</strong> for a Valentine treat!(click below for a vday surprise 👀) </p>
       <button className="btn surprise" onClick={() => navigate('/surprise')}>CLICK ME!!!</button>
     </div>
   );
