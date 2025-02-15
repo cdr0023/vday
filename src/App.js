@@ -50,12 +50,10 @@ function SurprisePage() {
 
 export default function App() {
   return (
-    <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/yes" element={<YesPage />} />
         <Route path="/surprise" element={<SurprisePage />} />
       </Routes>
-    </Router>
   );
 }
