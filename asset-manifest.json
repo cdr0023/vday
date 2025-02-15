@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vday/static/css/main.8fea40fb.css",
-    "main.js": "/vday/static/js/main.fd006164.js",
+    "main.js": "/vday/static/js/main.31262e6b.js",
     "index.html": "/vday/index.html",
     "main.8fea40fb.css.map": "/vday/static/css/main.8fea40fb.css.map",
-    "main.fd006164.js.map": "/vday/static/js/main.fd006164.js.map"
+    "main.31262e6b.js.map": "/vday/static/js/main.31262e6b.js.map"
   },
   "entrypoints": [
     "static/css/main.8fea40fb.css",
-    "static/js/main.fd006164.js"
+    "static/js/main.31262e6b.js"
   ]
 }
